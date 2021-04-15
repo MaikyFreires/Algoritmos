@@ -1,1 +1,1 @@
-# Algoritmos Exercicios realizados na aula de Algoritmos da professora Joyce Siqueira
+#Exercicios realizados na aula de Algoritmos da professora Joyce Siqueira
